@@ -1,14 +1,26 @@
-# Day 1 - Python Revision
 
-## 🚀 What I did
-- Practiced basic Python problems
-- Covered strings, lists, and loops
+# Python 30 Days Practice 🚀
 
-## 🧠 Problems Solved
-- Reverse a string
-- Count vowels in a string
-- Find maximum in a list
+This repository contains my 30-day Python practice journey where I focus on building strong fundamentals through daily problem solving.
 
-## 📌 Key Learnings
-- Improved problem-solving approach
-- Better understanding of Python basics
+## 📅 Progress
+
+- Day 1: Basics
+- Day 2: Logic building
+- Day 3: Lists
+- Day 4: Strings
+- Day 5: Functions
+- ...
+
+## 🎯 Goal
+
+To complete Python fundamentals in 30 days and improve problem-solving skills.
+
+## 📌 Approach
+
+- Daily coding practice
+- Small problems with consistency
+- Learning by doing
+
+---
+Consistency over perfection.
