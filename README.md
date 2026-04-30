@@ -10,7 +10,11 @@ This repository contains my 30-day Python practice journey where I focus on buil
 - Day 3: Lists
 - Day 4: Strings
 - Day 5: Functions
-- ...
+- Day 6: Loops and patterns
+- Day 7: Nested loops and patterns
+- Day 8: Number-based logic
+- Day 9: Condition-based logic
+- Day 10: Lists + logic (DSA basics start)
 
 ## 🎯 Goal
 
