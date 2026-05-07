@@ -20,7 +20,8 @@ This repository contains my 30-day Python practice journey where I focus on buil
 - Day 13: Exception Handling
 - Day 14: OOP concepts
 - Day 15: completed - Dictionaries in Python
-- 
+- Day 16: completed - Functions with Parameters
+- Day 17: completed - NumPy practice
 
 ## 🎯 Goal
 
