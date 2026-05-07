@@ -15,9 +15,12 @@ This repository contains my 30-day Python practice journey where I focus on buil
 - Day 8: Number-based logic
 - Day 9: Condition-based logic
 - Day 10: Lists + logic (DSA basics start)
--  Day 11: Dictionaries
+- Day 11: Dictionaries
 - Day 12: File Handling
 - Day 13: Exception Handling
+- Day 14: OOP concepts
+- Day 15: completed - Dictionaries in Python
+- 
 
 ## 🎯 Goal
 
