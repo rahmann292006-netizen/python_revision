@@ -22,6 +22,9 @@ This repository contains my 30-day Python practice journey where I focus on buil
 - Day 15: completed - Dictionaries in Python
 - Day 16: completed - Functions with Parameters
 - Day 17: completed - NumPy practice
+- Day 18: Searching Algorithms
+- Day 19: Recursion Basics
+- Day 20: OOP Mini Practice  
 
 ## 🎯 Goal
 
