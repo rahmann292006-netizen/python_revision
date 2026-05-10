@@ -24,8 +24,9 @@ This repository contains my 30-day Python practice journey where I focus on buil
 - Day 17: completed - NumPy practice
 - Day 18: Searching Algorithms
 - Day 19: Recursion Basics
-- Day 20: OOP Mini Practice  
-
+- Day 20: OOP Mini Practice
+- Day 21: Practiced searching and sorting basics
+  
 ## 🎯 Goal
 
 To complete Python fundamentals in 30 days and improve problem-solving skills.
