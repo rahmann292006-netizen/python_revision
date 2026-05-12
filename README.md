@@ -27,6 +27,7 @@ This repository contains my 30-day Python practice journey where I focus on buil
 - Day 20: OOP Mini Practice
 - Day 21: Practiced searching and sorting basics
 - Day 22: Practiced Fibonacci series logic
+- Day 23: Solved DSA-style Python problems
   
 ## 🎯 Goal
 
