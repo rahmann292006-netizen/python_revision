@@ -29,6 +29,7 @@ This repository contains my 30-day Python practice journey where I focus on buil
 - Day 22: Practiced Fibonacci series logic
 - Day 23: Solved DSA-style Python problems
 - Day 24: Improved understanding of external data handling
+- Day 25: Built a mini Student Management System 
   
 ## 🎯 Goal
 
