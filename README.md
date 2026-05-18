@@ -33,6 +33,7 @@ This repository contains my 30-day Python practice journey where I focus on buil
 - Day 26: Learned Sets and Tuples in Python and practiced basic set operations.
 - Day 27: Learned Python Modules and built a simple calculator using math functions.
 - Day 28: Learned List Comprehension and Lambda Functions in Python.
+- Day 29: Learned JSON Handling in Python using dumps() and loads().
   
 ## 🎯 Goal
 
